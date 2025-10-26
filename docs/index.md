@@ -18,6 +18,7 @@ I build reliable agentic AI systems, production data platforms, and study how sp
 
 ## Selected Links
 
+- Website: [wasim.github.io](https://wasim.github.io)
 - GitHub: [github.com/wasim](https://github.com/wasim)
 - LinkedIn: [linkedin.com/in/wasimakram](https://www.linkedin.com/in/wasimakram/?originalSubdomain=dk)
 - Email: `mailwasim [at] gmail dot com`
