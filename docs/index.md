@@ -20,7 +20,7 @@ I build reliable agentic AI systems, production data platforms, and study how sp
 
 - GitHub: [github.com/wasim](https://github.com/wasim)
 - LinkedIn: [linkedin.com/in/wasimakram](https://www.linkedin.com/in/wasimakram/?originalSubdomain=dk)
-- Email: [mailwasim@gmail.com](mailto:mailwasim@gmail.com)
+- Email: `mailwasim [at] gmail dot com`
 - CV (PDF): [Profile.pdf](assets/Profile.pdf)
 
 ## Current Research Plan

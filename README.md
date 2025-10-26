@@ -10,6 +10,6 @@ Right now I'm working through [Antikythera's *What Is Intelligence?*](https://wh
 - 🧠 Focus: sparse autoencoders (SAEs), mechanistic interpretability, scaling laws, evaluation/reliability
 - 🛠️ Stack: Python, HF/Transformers, Snowflake/BigQuery, GCP/AWS, dbt, Spark/Glue, Vertex/Cloud Run, CI/CD, cost/perf
 
-**Links:** [GitHub](https://github.com/wasim) · [LinkedIn](https://www.linkedin.com/in/wasimakram/?originalSubdomain=dk) · [AI Centre DK](https://www.aicentre.dk/) · [VML MAP](https://www.vml.com/) · [Email](mailto:mailwasim@gmail.com)
+**Links:** [GitHub](https://github.com/wasim) · [LinkedIn](https://www.linkedin.com/in/wasimakram/?originalSubdomain=dk) · [AI Centre DK](https://www.aicentre.dk/) · [VML MAP](https://www.vml.com/) · Email: `mailwasim [at] gmail dot com`
 
 > Stay hungry. Stay foolish.
